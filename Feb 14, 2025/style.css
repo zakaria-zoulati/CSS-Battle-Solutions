@@ -1,0 +1,62 @@
+.container {
+    background-color : #FBFDB7; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ;
+    background-color:#75CF34 ; 
+}
+
+.rectangle1 {
+    position : absolute ; 
+    top : 100px ; 
+    left : 140px ; 
+    width: 120px;
+    height: 40px;
+    background-color: #963032;
+}
+.rectangle2{
+    position : absolute ; 
+    top : 160px ; 
+    left : 140px ; 
+    width : 120px ; 
+    height : 40px ; 
+    background-color: #963032;
+}
+
+.rec1 {
+    background-color : #963032 ; 
+    position : absolute ; 
+    top : 80px ; 
+    left : 150px ; 
+    width : 40px ; 
+    height : 20px ; 
+}
+.rec2 {
+    background-color : #963032 ; 
+    position : absolute ; 
+    top : 80px ; 
+    left : 210px ; 
+    width : 40px ; 
+    height : 20px ; 
+}
+.rec3 {
+    background-color : #963032 ; 
+    position : absolute ; 
+    top : 200px ; 
+    left : 150px ; 
+    width : 40px ; 
+    height : 20px ; 
+}
+.rec4 {
+    background-color : #963032 ; 
+    position : absolute ; 
+    top : 200px ; 
+    left : 210px ; 
+    width : 40px ; 
+    height : 20px ; 
+}
