@@ -1,0 +1,45 @@
+.container {
+    background-color :#FADE8B ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+}
+
+.BigRec {
+    position : absolute ; 
+    background: #61A74E;
+    width : 200px ; 
+    height : 285px ; 
+    left : 100px ; 
+    top : 15px ; 
+}
+.midRec {
+    position : absolute ; 
+    background : #FADE8B ; 
+    height : 45px ; 
+    width : 40px ; 
+    top : 170px ; 
+    left : 180px ; 
+}
+.leftRec{
+    position : absolute ; 
+    background : #61A74E  ; 
+    width : 20px ; 
+    height : 85px ; 
+    top : 215px ; 
+    left : 80px ; 
+}
+.rightRec{
+    position : absolute ; 
+    background : #61A74E  ; 
+    width : 20px ; 
+    height : 85px ; 
+    top : 215px ; 
+    left : 300px ; 
+}
+
