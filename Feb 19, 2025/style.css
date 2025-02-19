@@ -1,0 +1,47 @@
+.container {
+    background-color : #D95362 ;  
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+}
+
+.rectangle {
+    position : absolute ; 
+    width: 80px;
+    height: 220px;
+    top : 40px ; 
+    left : 125px ; 
+    background: #FDFFE9 ; 
+  }
+  .circle1 {
+    position : absolute ; 
+    background : #FDFFE9 ; 
+    width : 50px ; 
+    height: 50px ; 
+    border-radius : 50%  ; 
+    top : 40px ; 
+    left : 225px ; 
+  }
+  .circle2 {
+    position : absolute ; 
+    background : #FDFFE9 ; 
+    width : 50px ; 
+    height: 50px ; 
+    border-radius : 50%  ; 
+    top : 125px ; 
+    left : 225px ; 
+  }
+  .circle3 {
+    position : absolute ; 
+    background : #FDFFE9 ; 
+    width : 50px ; 
+    height: 50px ; 
+    border-radius : 50%  ; 
+    top : 210px ; 
+    left : 225px ; 
+  }
