@@ -1,8 +1,9 @@
-# CSS-Battle-Solutions
-This repository contains the codes the daily problems that I solve on CSS Battle Platform 
+# CSS Battle Solutions
 
-<p align="center">
-  <img src="image1.png" width="200"/>
-  <img src="image2.png" width="200"/>
-  <img src="image3.png" width="200"/>
-</p>
+| Preview | Date |
+|---------|------|
+| ![Feb 11, 2025](Feb%2011,%202025/index.html) | [Feb 11, 2025](Feb%2011,%202025/index.html) |
+| ![Feb 14, 2025](Feb%2014,%202025/index.html) | [Feb 14, 2025](Feb%2014,%202025/index.html) |
+| ![Feb 15, 2025](Feb%2015,%202025/index.html) | [Feb 15, 2025](Feb%2015,%202025/index.html) |
+| ![Feb 19, 2025](Feb%2019,%202025/index.html) | [Feb 19, 2025](Feb%2019,%202025/index.html) |
+| ![Feb 22, 2025](Feb%2022,%202025/index.html) | [Feb 22, 2025](Feb%2022,%202025/index.html) |
