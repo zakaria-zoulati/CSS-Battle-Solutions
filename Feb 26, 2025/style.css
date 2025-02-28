@@ -1,13 +1,13 @@
 .container {
-    background-color : #46BA67 ; 
-    width : 400px ; 
-    height : 300px ; 
-    position: absolute ;
-    transform: translate(-50%, -50%);
-    top: 50%;
-    left: 50%;
-    border : black 2px solid; 
-    box-shadow: 2px 2px 2px 3px black ; 
+  background-color : #46BA67 ; 
+  width : 400px ; 
+  height : 300px ; 
+  position: absolute ;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  border : black 2px solid; 
+  box-shadow: 2px 2px 2px 3px black ; 
 }
 .rect1{
     position : absolute ; 
