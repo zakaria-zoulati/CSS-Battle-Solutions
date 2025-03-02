@@ -1,0 +1,81 @@
+.container {
+    background-color :#84B9C7 ;  
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+}
+.back {
+    position : absolute ; 
+    height : 70px ; 
+    width : 350px ; 
+    left : 25px ; 
+    top : 80px ; 
+    background : #84B9C7 ; 
+}
+
+.hor {
+  position : absolute ; 
+  background :#1A353C ;
+  height : 30px  ;
+  width : 320px ; 
+  left : 40px;  
+  top : 100px; 
+}
+.ver1 {
+  position : absolute ; 
+  background : #1A353C ; 
+  height : 104px;  
+  width : 30px ; 
+  top : 150px ; 
+  left : 130px ; 
+}
+.ver2 {
+  position : absolute ; 
+  background : #1A353C ; 
+  height : 104px;  
+  width : 30px ; 
+  top : 150px ; 
+  left : 240px ; 
+}
+.cer1 {
+  position : absolute ; 
+  background : #1A353C ;
+  top : 90px ; 
+  left : 40px;  
+  width : 120px ; 
+  height : 120px ; 
+  border-radius : 50%  ;
+}
+.cer2 {
+  position : absolute ; 
+  background : #1A353C ;
+  top : 90px ; 
+  left : 240px;  
+  width : 120px ; 
+  height : 120px ; 
+  border-radius : 50%  ;
+}
+
+.cer3 {
+  position : absolute ; 
+  background : #84B9C7 ; 
+  top : 120px;  
+  left : 70px ; 
+  height : 60px ; 
+  width : 60px ; 
+  border-radius : 50% ; 
+}
+.cer4 {
+  position : absolute ; 
+  background : #84B9C7 ; 
+  top : 120px;  
+  left : 270px ; 
+  height : 60px ; 
+  width : 60px ; 
+  border-radius : 50% ; 
+}
