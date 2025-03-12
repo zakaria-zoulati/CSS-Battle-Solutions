@@ -8,6 +8,7 @@
     left: 50%;
     border : black 2px solid; 
     box-shadow: 2px 2px 2px 3px black ; 
+    overflow: hidden;
 }
 .hor {
     position : absolute ; 
