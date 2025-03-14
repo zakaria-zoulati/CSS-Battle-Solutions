@@ -1,0 +1,35 @@
+.container {
+    background : #D96C7B; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+    overflow: hidden;
+}
+  .ver1 {
+    position : absolute ; 
+    background : #8B0051 ;
+    width : 40px ; 
+    left : 80px;  
+    height : 74px ; 
+    top : 181px; 
+  }
+  .ver2{
+    position : absolute ; 
+    background : #8B0051 ;
+    width : 40px ; 
+    left : 180px;  
+    height : 74px ; 
+    top : 181px; 
+  }.ver3 {
+    position : absolute ; 
+    background : #8B0051 ;
+    width : 40px ; 
+    left : 280px;  
+    height : 74px ; 
+    top : 181px; 
+  }
