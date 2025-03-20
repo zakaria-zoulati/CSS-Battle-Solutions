@@ -1,0 +1,52 @@
+.container {
+    background : #D4ED33 ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+    overflow: hidden;
+}
+ .ver1 {
+   position : absolute ; 
+   background : #1A353C ; 
+   height : 300px ; 
+   top : 0px ; 
+   width : 30px; 
+   left : 85px; 
+ }
+ .ver2 {
+   position : absolute ; 
+   background : #1A353C ; 
+   height : 300px ; 
+   top : 0px ; 
+   width : 30px; 
+   left : 150px; 
+ }
+ .ver3 {
+   position : absolute ; 
+   background : #1A353C ; 
+   height : 300px ; 
+   top : 0px ; 
+   width : 30px; 
+   left : 220px; 
+ }
+  .ver4 {
+   position : absolute ; 
+   background : #1A353C ; 
+   height : 300px ; 
+   top : 0px ; 
+   width : 30px; 
+   left : 285px; 
+ }
+ .hor {
+   position : absolute ; 
+   background : #1A353C ; 
+   height : 30px; 
+   top :  135px ; 
+   width : 40px ; 
+   left : 180px ; 
+ }
