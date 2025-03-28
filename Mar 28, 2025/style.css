@@ -1,0 +1,37 @@
+.container {
+    background : #00B0C8 ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+    overflow: hidden;
+}
+
+  .hor{
+    position : absolute ; 
+    background : #FFFFFF ; 
+    height : 20px ; 
+    width : 300px ; 
+    left : 42px ; 
+    top : 132px ; 
+  }
+  .square1 {
+    position : absolute ; 
+    background : #FFFFFF  ; 
+    height : 100px ; 
+    width : 100px ; 
+    left : 142px ; 
+    top : 92px;  
+  }
+  .square2 {
+    position : absolute ; 
+    background : #1A353C ; 
+    left : 122px ; 
+    width : 141px ; 
+    height : 141px ; 
+    top : 72px;  
+  }
