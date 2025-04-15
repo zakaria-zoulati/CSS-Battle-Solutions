@@ -1,0 +1,68 @@
+.container {
+    background : #4C3AB3  ;
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+    overflow: hidden;
+}
+  .circ {
+    position : absolute ; 
+    background: #D96E9F;
+    height : 40px ; 
+    width : 40px;
+    left : 180px ; 
+    top : 110px ; 
+    border-radius : 50% ; 
+  }
+  .rec1 {
+    position : absolute ; 
+    background : #4C3AB3 ; 
+    left : 170px ; 
+    width : 60px ; 
+    height : 135px ; 
+    top : 135px ;
+  }
+  .circ2 {
+    position : absolute ; 
+    background : #4C3AB3 ; 
+    left : 170px ; 
+    width : 60px ; 
+    height : 60px ; 
+    top : 100px ;
+    border-radius : 50% ; 
+  }
+  .rec2{
+    position : absolute ; 
+    background : #D96E9F ; 
+    left : 100px ; 
+    top : 30px ; 
+    height : 240px ; 
+    width : 200px ;
+    border-top-left-radius : 100px ;   
+    border-top-right-radius : 100px ;   
+  }
+  .rec3{
+    position : absolute ; 
+    background : #4C3AB3 ; 
+    left : 130px ; 
+    top : 60px ; 
+    height : 180px ; 
+    width : 140px ;
+    border-top-left-radius : 100px ;   
+    border-top-right-radius : 100px ;   
+  }
+    .rec4 {
+    position : absolute ; 
+    background : #D96E9F ; 
+    left : 140px ; 
+    top : 70px ; 
+    height : 180px ; 
+    width : 120px ;
+    border-top-left-radius : 100px ;   
+    border-top-right-radius : 100px ;   
+  }
