@@ -1,0 +1,48 @@
+.container {
+    background : #5A9F48 ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+    overflow: hidden;
+}
+  .pol1 {
+     position : absolute ; 
+     background : #2A2753 ; 
+     left : 70px ; 
+     top : 100px ; 
+     height  : 35px ; 
+     width : 45px ;
+     clip-path:polygon(0% 0% , 100% 0% , 100% 100% ); 
+  }
+  .pol2 {
+    position : absolute ; 
+    background : #2A2753 ; 
+    top : 100px ; 
+    width : 40px ; 
+    left : 145px; 
+    height : 88px ; 
+    clip-path : polygon( 0% 0% , 100% 0% , 100% 100% , 0% 65% ) ; 
+  }
+   .pol3 {
+    position : absolute ; 
+    background : #2A2753 ; 
+    top : 100px ; 
+    width : 40px ; 
+    left : 215px; 
+    height : 88px ; 
+    clip-path : polygon( 0% 0% , 100% 0% , 100% 65% ,    0% 100% ) ; 
+  }
+   .pol4 {
+    position : absolute ; 
+    background : #2A2753 ; 
+    top : 100px ; 
+    width : 45px ; 
+    left : 285px; 
+    height : 35px ; 
+    clip-path : polygon( 0% 0% , 100% 0% , 0% 100%) ; 
+  }
