@@ -1,0 +1,56 @@
+.container {
+    background : #282828 ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+    overflow: hidden;
+}
+  .arc1 {
+    position : absolute ; 
+    background : #EA3323 ;  
+    left : 98px  ; 
+    width : 120px ; 
+    height : 120px ; 
+    top : 90px ;
+    border-radius : 50% ; 
+  }
+      .arc2 {
+    position : absolute ; 
+    background : #282828 ;  
+    left : 138px  ; 
+    width : 120px ; 
+    height : 120px ; 
+    top : 90px ;
+    border-radius : 50% ; 
+  }
+  .arc3 {
+    position : absolute ; 
+    background : #EA3323 ;  
+    left : 178px  ; 
+    width : 120px ; 
+    height : 120px ; 
+    top : 90px ;
+    border-radius : 50% ; 
+  }
+    .arc4 {
+    position : absolute ; 
+    background : #EA3323 ;  
+    left : 170px  ; 
+    width : 60px ; 
+    height : 60px ; 
+    top : 120px ;
+    border-radius : 50% ; 
+  }
+  .bar {
+    position : absolute ; 
+    background : #282828 ; 
+    left : 190px ; 
+    top : 0px ; 
+    width : 20px ; 
+    height : 300px ; 
+  }
