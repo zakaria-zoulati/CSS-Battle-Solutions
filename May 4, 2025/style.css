@@ -1,0 +1,60 @@
+.container {
+    background : #FAE29E ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+    overflow: hidden;
+}
+  .hor1 {
+    position : absolute ; 
+    left : 75px ; 
+    width : 250px; 
+    height : 40px ;
+    top : 90px ; 
+    background: #4A9A86;
+  }
+   .hor2 {
+      position : absolute ; 
+      left : 75px ; 
+      width : 250px; 
+      height : 40px ;
+      bottom : 90px ; 
+      background: #4C4C6B;
+  }
+  .ver1 {
+    position : absolute ; 
+    background : #4A9A86 ; 
+    width : 40px ; 
+    height : 55px ; 
+    left : 75px ; 
+    top : 40px ;  
+  }
+    .ver2 {
+    position : absolute ; 
+    background : #4A9A86 ; 
+    width : 40px ; 
+    height : 55px ; 
+    right : 75px ; 
+    top : 40px ;  
+  }
+  .ver3 {
+    position : absolute ; 
+    background : #4C4C6B ; 
+    width : 40px ; 
+    height : 55px ; 
+    left : 75px ; 
+    bottom : 40px ;  
+  }
+    .ver4 {
+    position : absolute ; 
+    background : #4C4C6B ; 
+    width : 40px ; 
+    height : 55px ; 
+    right : 75px ; 
+    bottom : 40px ;  
+  }
