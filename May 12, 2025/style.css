@@ -1,0 +1,53 @@
+.container {
+    background : #ED6A9D ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+    overflow: hidden;
+}
+  .circ {
+    position : absolute ; 
+    left : 110px ; 
+    top : 10px; 
+    width: 180px;
+    height: 180px;
+    border-radius : 50% ; 
+    background : linear-gradient( 180deg , #30383F 50% , #ED6A9D 50% , #ED6A9D  ) ; 
+  }
+  .rec1{
+    position : absolute ; 
+    background : #30383F ; 
+    width : 60px ; 
+    height : 200px; 
+    bottom : 0px ; 
+    left : 50px; 
+  }
+   .rec2{
+    position : absolute ; 
+    background : #30383F ; 
+    width : 60px ; 
+    height : 200px; 
+    bottom : 0px ; 
+    right : 50px; 
+  }
+  .rec3 {
+    position : absolute ; 
+    background : #30383F ; 
+    left : 60px ; 
+    bottom : 0px; 
+    width : 280px ; 
+    height : 60px ; 
+  }
+  .rec4 {
+    position : absolute ; 
+    background : #30383F ; 
+    left : 170px ; 
+    top :60px; 
+    width : 60px ; 
+    height : 120px ; 
+  }
