@@ -1,0 +1,57 @@
+.container {
+    background : #243D83 ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+    overflow: hidden;
+}
+  .circ1 {
+    position : absolute ; 
+    left : 120px ; 
+    top : 110px ; 
+    width : 160px ; 
+    height : 160px ; 
+    border-radius : 50% ; 
+    background: #5AA4B7;
+  }
+  .rec {
+     position : absolute ; 
+     height : 80px ; 
+     width : 160px ; 
+     top : 110px ;
+     left : 120px ;
+     background : #5AA4B7 ; 
+
+  }
+  .circ2 {
+    position : absolute ; 
+    left : 80px ; 
+    top : 110px ;
+    width : 80px; 
+    height : 80px ; 
+    border-radius : 50%  ; 
+    background : #243D83 ; 
+  }
+   .circ3 {
+    position : absolute ; 
+    right : 80px ; 
+    top : 110px ;
+    width : 80px; 
+    height : 80px ; 
+    border-radius : 50%  ; 
+    background : #243D83 ; 
+  }
+  .tri {
+    position : absolute ; 
+    width : 160px ; 
+    left : 120px ; 
+    top : 30px ; 
+    height : 81px; 
+    background : #5AA4B7 ; 
+    clip-path : polygon(0% 100% , 50% 0% , 100% 100% );
+  }
