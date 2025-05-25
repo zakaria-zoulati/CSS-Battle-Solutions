@@ -1,0 +1,81 @@
+.container {
+    background : #243D83 ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+    overflow: hidden;
+}
+  .eye1 {
+    position : absolute ; 
+    left : 25px ;
+    top : 135px ;
+    width: 90px;
+    height: 30px;
+    clip-path: ellipse( 50% 50% at 50% 50%);
+    background: #E3CC9E;
+  }
+  .eye2 {
+    position : absolute ; 
+    right : 25px ;
+    top : 135px ;
+    width: 90px;
+    height: 30px;
+    border-radius : 50%; 
+    background: #E3CC9E;
+  }
+  .bar1 {
+    position : absolute ; 
+    top : 0px ; 
+    left : 150px ; 
+    width : 50px ; 
+    height : 100px ; 
+    background : #4A9A86 ; 
+  }
+  .bar2 {
+    position : absolute ; 
+    bottom : 0px ; 
+    left : 150px ; 
+    width : 50px ; 
+    height : 100px ; 
+    background : #4A9A86 ; 
+  }
+  .ell1 {
+    position : absolute ; 
+    height : 216px ; 
+    width : 200px ; 
+    top : 42px ; 
+    left : -30px ; 
+    clip-path: ellipse(50% 30% at 50% 50%);
+    background : #4A9A86 ; 
+  }
+  .cont {
+    position : absolute ; 
+    top : 100px ; 
+    left : 150px; 
+    height : 100px ; 
+    width : 50px ; 
+    overflow : hidden ; 
+  }
+  .circ1 {
+    position : absolute ; 
+    height : 150px ; 
+    width : 120px ; 
+    top : 30px ; 
+    right : 0px ; 
+    border-radius : 50% ; 
+    background : #4A9A86 ; 
+  }
+  .circ2 {
+    position : absolute ; 
+    height : 150px ; 
+    width : 120px ; 
+    bottom : 30px ; 
+    right : 0px ; 
+    border-radius : 50% ; 
+    background : #4A9A86; 
+  }
