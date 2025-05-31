@@ -1,0 +1,80 @@
+.container {
+    background : #F3AC3C ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+    overflow: hidden;
+}
+  .bar1 {
+    position : absolute ; 
+    width: 40px ; 
+    left : 120px ; 
+    height: 20px;
+    top : 140px ; 
+    background: #282828;
+  }
+   .bar2 {
+    position : absolute ; 
+    width: 40px ; 
+    right : 120px ; 
+    height: 20px;
+    top : 140px ; 
+    background: #282828;
+  }
+  .bar3 {
+    position : absolute ; 
+    width: 20px ; 
+    top : 70px ; 
+    height: 40px;
+    right : 190px ; 
+    background: #282828;
+  }
+  .bar4 {
+    position : absolute ; 
+    width: 20px ; 
+    bottom : 70px ; 
+    height: 40px;
+    right : 192px ; 
+    background: #282828;
+  }
+  .bar5 {
+    position : absolute ; 
+    width: 20px ; 
+    top : 60px ; 
+    height: 40px;
+    left : 120px ; 
+    background: #282828;
+    transform : rotate( 135deg )
+  }
+   .bar6 {
+    position : absolute ; 
+    width: 20px ; 
+    top : 60px ; 
+    height: 40px;
+    right : 120px ; 
+    background: #282828;
+    transform : rotate( 45deg )
+  }
+   .bar7 {
+    position : absolute ; 
+    width: 20px ; 
+    bottom : 60px ; 
+    height: 40px;
+    left : 120px ; 
+    background: #282828;
+    transform : rotate( 45deg )
+  }
+  .bar8 {
+    position : absolute ; 
+    width: 20px ; 
+    bottom : 59px ; 
+    height: 40px;
+    right : 123px ; 
+    background: #282828;
+    transform : rotate( 135deg )
+  }
