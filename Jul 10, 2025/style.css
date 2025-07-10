@@ -1,0 +1,73 @@
+.container {
+    background : #7AA70A ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+}
+  .top {
+    position : absolute ; 
+    background : #FFFFFF ; 
+    left : 114px ; 
+    width : 172px ; 
+    top : 40px ; 
+    height : 40px ;
+    border-top-left-radius : 200px ;
+    border-top-right-radius : 200px ;
+  }
+    .down {
+    position : absolute ; 
+    background : #FFFFFF ; 
+    left : 114px ; 
+    width : 102px ; 
+    bottom: 41px ; 
+    height : 39px ;
+    border-bottom-left-radius : 200px ;
+  }
+  .bar {
+    position : absolute ; 
+    background : #FFFFFF ; 
+    left : 114px ; 
+    top : 80px ; 
+    width : 40px ; 
+    height : 40px ; 
+  }
+  .mid {
+    position : absolute ; 
+    background : #FFFFFF ; 
+    left : 114px ; 
+    width : 100px ; 
+    top : 120px ; 
+    height : 40px ; 
+    border-bottom-left-radius : 2rem ;  
+  }
+  .circ1 {
+    position : absolute ; 
+    background : #FFFFFF ; 
+    right : 115px ; 
+    width : 140px ; 
+    height : 139px ; 
+    border-radius: 50% ; 
+    top : 120px ; 
+  }
+  .circ2 {
+    position : absolute ; 
+    background : #7AA70A ; 
+    left : 185px ; 
+    top : 160px ; 
+    height : 60px ; 
+    width : 60px ;
+    border-radius : 50% ; 
+  }
+  .cont {
+    position : absolute ; 
+    background : #7AA70A ; 
+    left : 110px ;
+    top : 160px ; 
+    height : 60px ; 
+    width : 100px ; 
+  }
