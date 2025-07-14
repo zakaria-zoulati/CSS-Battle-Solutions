@@ -1,0 +1,38 @@
+.container {
+    background : #CEEDFF  ;
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+    overflow: hidden;
+}
+  .rec {
+    position : absolute ; 
+    left : 25px ;
+    top : 110px ; 
+    width: 350px;
+    height: 80px;
+    background: #05476C ; 
+  }
+  .circ1{
+    position : absolute ; 
+    left : 25px ; 
+    width : 350px ; 
+    top : -65px ; 
+    height : 350px ; 
+    border-radius : 50% ; 
+    background : linear-gradient( 180deg , #2BBBF3 50% , #CEEDFF 50% )
+  }
+  .circ2 {
+    position : absolute ; 
+    background : #CEEDFF ; 
+    width : 300px ; 
+    height : 300px ; 
+    left : 50px ; 
+    top : -125px ; 
+    border-radius : 50% ; 
+  }
