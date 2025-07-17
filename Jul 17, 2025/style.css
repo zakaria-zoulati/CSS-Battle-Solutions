@@ -1,0 +1,43 @@
+.container {
+    background : #243D83 ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+    overflow: hidden;
+}
+  .square1 {
+    position : absolute ; 
+    top : 180px ; 
+    left : 118px ;
+    width: 72px;
+    height: 72px;
+    background: #FFFFFF;
+  }
+    .square2 {
+    position : absolute ; 
+    top : 108px ; 
+    left : 170px ;
+    width: 72px;
+    height: 72px;
+    background: #FFFFFF;
+  }.rec1 {
+      position : absolute ; 
+      background : #6592CF ; 
+      left : 130px ; 
+      width : 100px ; 
+      top : 120px ; 
+      height : 120px ; 
+  }
+  .rec2 {
+      position : absolute ; 
+      background : #6592CF ; 
+      left : 170px ; 
+      width : 100px ; 
+      top : 60px ; 
+      height : 120px ; 
+  }
