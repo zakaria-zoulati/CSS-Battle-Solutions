@@ -1,0 +1,88 @@
+.container {
+    background : #EEEEEE ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+    overflow: hidden;
+}
+  .rec1 {
+    position : absolute ; 
+    top : 70px ; 
+    left : 150px ; 
+    width: 100px;
+    height: 160px;
+    background: #246541;
+  }
+  .circ1 {
+    position : absolute ; 
+    left : 150px ; 
+    top : 45px ; 
+    height : 50px ; 
+    width : 50px ; 
+    border-radius : 50% ; 
+    background : linear-gradient( 180deg , #439E6B 35% , #EEEEEE 35% , #EEEEEE 65% , #439E6B 65% , #439E6B 100% )
+  }
+    .circ2 {
+    position : absolute ; 
+    right : 150px ; 
+    top : 45px ; 
+    height : 50px ; 
+    width : 50px ; 
+    border-radius : 50% ; 
+    background : linear-gradient( 180deg , #439E6B 35% , #EEEEEE 35% , #EEEEEE 65% , #439E6B 65% , #439E6B 100% )
+  }
+  .leg1 {
+    position : absolute ; 
+    background : #439E6B; 
+    left : 120px ; 
+    top : 200px ; 
+    height : 40px ; 
+    width : 15px; 
+  }
+    .leg2 {
+    position : absolute ; 
+    background : #439E6B; 
+    right : 120px ; 
+    top : 200px ; 
+    height : 40px ; 
+    width : 15px; 
+  }
+    .leg11 {
+    position : absolute ; 
+    background : #439E6B; 
+    left : 120px ; 
+    top : 200px ; 
+    height : 14px ; 
+    width : 30px; 
+  }
+    .leg22 {
+    position : absolute ; 
+    background : #439E6B; 
+    right : 120px ; 
+    top : 200px ; 
+    height : 14px ; 
+    width : 30px; 
+  }
+  .eye1 {
+    position : absolute ; 
+    width : 20px ; 
+    height : 20px ; 
+    border-radius : 50% ; 
+    top : 52.3px ; 
+    left : 165px ; 
+    background : linear-gradient( 180deg , #439E6B 50% , #000000 50%  ) ; 
+  }
+    .eye2 {
+    position : absolute ; 
+    width : 20px ; 
+    height : 20px ; 
+    border-radius : 50% ; 
+    top : 52.3px ; 
+    right : 165px ; 
+    background : linear-gradient( 180deg , #439E6B 50% , #000000 50%  ) ; 
+  }
