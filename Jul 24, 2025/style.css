@@ -1,0 +1,32 @@
+.container {
+    background : #328FC1 ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+    overflow: hidden;
+}
+  .rec {
+    position : absolute ; 
+    width: 50px;
+    height: 104px;
+    left : 175px ; 
+    top : 98px ;
+    border-bottom-left-radius : 10px ; 
+    border-bottom-right-radius : 10px ; 
+    background: #3D2525;
+  }
+  .rec2 {
+    position : absolute ; 
+    background : #328FC1 ; 
+    left : 180px ; 
+    width : 40px ; 
+    height : 40px ; 
+    border-bottom-left-radius : 50% ; 
+    border-bottom-right-radius : 50%; 
+    top  : 103px ; 
+  }
