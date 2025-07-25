@@ -1,0 +1,39 @@
+.container {
+    background : #FADE8B ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+    overflow: hidden;
+}
+  .sq1 {
+    position : absolute ; 
+    top : 68px ;
+    left : 145px ; 
+    width: 70px;
+    height: 72px;
+    border-radius : 20px ;
+    background: #556D7F;
+  }
+    .sq2 {
+    position : absolute ; 
+    top : 88px ;
+    left : 237px ; 
+    width: 70px;
+    height: 72px;
+    border-radius : 20px ;
+    background: #D24444;
+  }
+      .sq3 {
+    position : absolute ; 
+    bottom : 68px ;
+    left : 165px ; 
+    width: 70px;
+    height: 72px;
+    border-radius : 20px ;
+    background: #556D7F;
+  }
