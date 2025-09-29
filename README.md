@@ -13,7 +13,7 @@ Click on any image below to view the corresponding solution.
 <table>
   <tr>
     <td><a href="./Apr 2, 2025"><img src="./Images/Target_1.png" width="200"></a></td>
-    <td><a href="./Apr 13, 2025"><img src="./Images/Target_2.png" width="200"></a></td>
+    <td><a href="./Apr 4, 2025"><img src="./Images/Target_2.png" width="200"></a></td>
     <td><a href="./Apr 14, 2025"><img src="./Images/Target_3.png" width="200"></a></td>
     <td><a href="./Apr 15, 2025"><img src="./Images/Target_4.png" width="200"></a></td>
   </tr>
@@ -32,7 +32,6 @@ Click on any image below to view the corresponding solution.
   <tr>
     <td><a href="./Apr 18, 2025"><img src="./Images/Target_13.png" width="200"></a></td>
     <td><a href="./Apr 18, 2025"><img src="./Images/Target_14.png" width="200"></a></td>
-    <td><a href="./Apr 18, 2025"><img src="./Images/Target_15.png" width="200"></a></td>
   </tr>
 </table>
 
