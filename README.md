@@ -50,6 +50,3 @@ Click on any image below to view the corresponding solution.
 </table>
 
 ---
-
-## 📂 Repository Structure
-
