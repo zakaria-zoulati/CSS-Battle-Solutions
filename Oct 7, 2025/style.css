@@ -1,0 +1,63 @@
+.container {
+    background : #050044 ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+    overflow: hidden;
+}
+  .circ1 {
+    position : absolute ;
+    left : 55px ;
+    top : 135px ; 
+    width: 160px;
+    height: 160px;
+    border-radius: 50% ; 
+    background: #D62E65;
+  }
+    .circ2 {
+    position : absolute ;
+    right : 55px ;
+    top : 135px ; 
+    width: 160px;
+    height: 160px;
+    border-radius: 50% ; 
+    background: #D62E65;
+  }
+  .rec1 {
+    position : absolute ; 
+    background : #D62E65 ; 
+    height : 100px ; 
+    width : 130px ; 
+    top : 88px ; 
+    left : 135px ; 
+  }
+    .rec2 {
+    position : absolute ; 
+    background : #050044 ; 
+    height : 180px ; 
+    width : 68px ; 
+    top : 118px ; 
+    left : 166px ; 
+  }
+
+  .bottom {
+    position : absolute ; 
+    background : #050044 ; 
+    left : 0px ; 
+    width : 400px ; 
+    bottom : 0px ; 
+    height : 80px ; 
+  }
+  .band {
+    position : absolute ; 
+    background : #D62E65; 
+    height : 30px ; 
+    left : 0px ; 
+    width : 400px ;
+    bottom : 55px ;
+  }
