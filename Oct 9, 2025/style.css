@@ -1,0 +1,54 @@
+.container {
+    background : #F0CD48  ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+    overflow: hidden;
+}
+  .rec1 {
+    position : absolute ; 
+    top : 60px ;
+    left : 80px ; 
+    width: 160px;
+    height: 60px;
+    background: #243D83;
+  }
+    .rec2 {
+    position : absolute ; 
+    bottom : 60px ;
+    left : 80px ; 
+    width: 190px;
+    height: 60px;
+    background: #243D83;
+  }
+    .rec3 {
+    position : absolute ; 
+    top : 120px ;
+    left : 80px ; 
+    width: 60px;
+    height: 60px;
+    background: #243D83;
+  }
+      .rec4 {
+    position : absolute ; 
+    top : 140px ;
+    right : 80px ; 
+    width: 60px;
+    height: 100px;
+    background  : #243D83;
+  }
+        .tri {
+    position : absolute ; 
+    top : 60px ;
+    left : 240px ; 
+    width:60px;
+    height: 60px;
+    background: #5AA4B7;
+    clip-path : polygon( 0% 0% , 100% 50% , 0% 100%  )
+        }
+  
