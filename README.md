@@ -99,6 +99,7 @@ Click on any image below to view the corresponding solution.
   <tr>
     <td><a href="./Apr 18, 2025"><img src="./Images/Target_57.png" width="200"></a></td>
     <td><a href="./Apr 18, 2025"><img src="./Images/Target_58.png" width="200"></a></td>
+    <td><a href="./Apr 18, 2025"><img src="./Images/Target_59.png" width="200"></a></td>
   </tr>
   
 </table>
