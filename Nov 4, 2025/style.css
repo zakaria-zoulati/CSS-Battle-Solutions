@@ -1,0 +1,90 @@
+.container {
+    background : #00D47E ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+    overflow: hidden;
+}
+  .circ1 {
+    position : absolute ; 
+    background : #000000 ; 
+    width : 100px ; 
+    height : 100px ;
+    left : 20px ; 
+    top : 100px ; 
+    border-radius : 50% ; 
+  }
+    .circ2 {
+    position : absolute ; 
+    background : #000000 ; 
+    width : 100px ; 
+    height : 100px ;
+    right : 20px ; 
+    top : 100px ; 
+    border-radius : 50% ; 
+  }
+      .circ3 {
+    position : absolute ; 
+    background : #000000 ; 
+    width : 100px ; 
+    height : 100px ;
+    right : 150px ; 
+    top : 100px ; 
+    border-radius : 50% ; 
+  }
+        .circ11 {
+    position : absolute ; 
+    background : #00D47E ; 
+    width : 50px ; 
+    height : 50px ;
+    right : 175px ; 
+    top : 125px ; 
+    border-radius : 50% ; 
+  }
+          .circ22 {
+    position : absolute ; 
+    background : #00D47E ; 
+    width : 50px ; 
+    height : 50px ;
+    right : 45px ; 
+    top : 125px ; 
+    border-radius : 50% ; 
+  }
+            .circ33 {
+    position : absolute ; 
+    background : #00D47E ; 
+    width : 50px ; 
+    height : 50px ;
+    left : 45px ; 
+    top : 125px ; 
+    border-radius : 50% ; 
+  }
+  .bar1 {
+    position : absolute ; 
+    background : #000000 ; 
+    left : 30px ; 
+    height : 17px ; 
+    width : 40px ;
+    top : 141px ;
+  }
+    .bar3 {
+    position : absolute ; 
+    background : #000000 ; 
+    right : 30px ; 
+    height : 17px ; 
+    width : 40px ;
+    top : 141px ;
+  }
+      .bar2 {
+    position : absolute ; 
+    background : #000000 ; 
+    right : 180px ; 
+    height : 17px ; 
+    width : 40px ;
+    top : 141px ;
+  }
