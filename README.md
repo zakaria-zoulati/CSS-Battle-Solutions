@@ -106,6 +106,7 @@ Click on any image below to view the corresponding solution.
   <tr>
     <td><a href="./Apr 18, 2025"><img src="./Images/Target_61.png" width="200"></a></td>
     <td><a href="./Apr 18, 2025"><img src="./Images/Target_62.png" width="200"></a></td>
+    <td><a href="./Apr 18, 2025"><img src="./Images/Target_63.png" width="200"></a></td>
   </tr>
   
 </table>
