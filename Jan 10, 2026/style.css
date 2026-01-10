@@ -1,0 +1,91 @@
+.container {
+    background : #F4DA64 ;
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+}
+  .rec1 {
+    position : absolute ; 
+    height : 60px ; 
+    width: 20px;
+    top : 57px ;
+    left : 125px ; 
+    transform : rotate( -45deg ) ; 
+    background: #E25C57;
+  }
+    .rec2 {
+    position : absolute ; 
+    height : 60px ; 
+    width: 20px;
+    top : 57px ;
+    right : 125px ; 
+    transform : rotate( 45deg ) ; 
+    background: #E25C57;
+  }
+      .rec3 {
+    position : absolute ; 
+    height : 60px ; 
+    width: 20px;
+    bottom : 57px ;
+    right : 125px ; 
+    transform : rotate( -45deg ) ; 
+    background: #E25C57;
+  }
+      .rec4 {
+    position : absolute ; 
+    height : 60px ; 
+    width: 20px;
+    bottom : 57px ;
+    left : 125px ; 
+    transform : rotate( 45deg ) ; 
+    background: #E25C57;
+  }
+  .square {
+    position : absolute ; 
+    background : #E25C57 ; 
+    height : 60px ; 
+    width : 60px ; 
+    top : 120px ;
+    left : 170px ; 
+  }
+  .circ1 {
+    position : absolute ; 
+    background : #E25C57 ; 
+    height : 30px ; 
+    width : 30px ; 
+    border-radius : 50% ; 
+    top  : 45px ; 
+    left : 185px ; 
+  }
+    .circ2 {
+    position : absolute ; 
+    background : #E25C57 ; 
+    height : 30px ; 
+    width : 30px ; 
+    border-radius : 50% ; 
+    bottom  : 45px ; 
+    left : 185px ; 
+  }
+    .circ3 {
+    position : absolute ; 
+    background : #E25C57 ; 
+    height : 30px ; 
+    width : 30px ; 
+    border-radius : 50% ; 
+    top  : 135px ; 
+    left : 95px ; 
+  }
+      .circ4 {
+    position : absolute ; 
+    background : #E25C57 ; 
+    height : 30px ; 
+    width : 30px ; 
+    border-radius : 50% ; 
+    top  : 135px ; 
+    right : 95px ; 
+  }

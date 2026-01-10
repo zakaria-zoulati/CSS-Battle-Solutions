@@ -107,6 +107,7 @@ Click on any image below to view the corresponding solution.
     <td><a href="./Apr 18, 2025"><img src="./Images/Target_61.png" width="200"></a></td>
     <td><a href="./Apr 18, 2025"><img src="./Images/Target_62.png" width="200"></a></td>
     <td><a href="./Apr 18, 2025"><img src="./Images/Target_63.png" width="200"></a></td>
+    <td><a href="./Jan 10, 2026"><img src="./Images/Target_64.png" width="200"></a></td>
   </tr>
   
 </table>
