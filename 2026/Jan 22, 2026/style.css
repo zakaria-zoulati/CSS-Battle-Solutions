@@ -1,0 +1,29 @@
+.container {
+    background : #C7B46D ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+}
+  .ball {
+    position : absolute ; 
+    left : 120px ; 
+    top : 70px ; 
+    width: 160px;
+    height: 160px;
+    border-radius : 50%  ; 
+    background: #38373A;
+  }
+  .shadow {
+    position : absolute ; 
+    height : 40px ; 
+    width : 150px ; 
+    border-radius : 100%;
+    bottom : 70px ; 
+    left : 40px ; 
+    background : #8B7E4C; 
+  }
