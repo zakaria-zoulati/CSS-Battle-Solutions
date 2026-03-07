@@ -147,6 +147,7 @@ Click on any image below to view the corresponding solution.
       <tr>
       <td><a href="./Battles/Battle 36/Target 4/"><img src="./Images/Target_85.png" width="200"></a></td>
       <td><a href="./2026/Jan 22, 2026"><img src="./Images/Target_86.png" width="200"></a></td>
+      <td><a href="./2026/Mar 7, 2026"><img src="./Images/Target_87.png" width="200"></a></td>
   </tr>
 </table>
 
