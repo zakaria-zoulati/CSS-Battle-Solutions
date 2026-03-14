@@ -1,0 +1,46 @@
+.container {
+    background : #F5E3B5 ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+}
+  .circ1 {
+    background : #328FC1 ; 
+    position : absolute ; 
+    height : 200px ; 
+    width : 200px; 
+    border-radius : 50% ;
+    left : 100px ;
+    top : 50px ; 
+  }
+  .circ2 {
+    position : absolute ; 
+    background : #F5E3B5 ; 
+    border-radius : 50% ; 
+    top : 80px ; 
+    left : 130px ; 
+    height : 140px ; 
+    width : 140px ; 
+  }
+  .square1{
+    position : absolute ; 
+    background : #F5E3B5 ; 
+    height : 140px ; 
+    width : 150px ; 
+    top : 10px ; 
+    right : 50px ; 
+  }
+  .halfCircle {
+    position : absolute ; 
+    background : #328FC1 ; 
+    height : 100px ; 
+    width : 100px ; 
+    right : 80px; 
+    top : 30px;
+    border-top-right-radius : 100% ; 
+  }
