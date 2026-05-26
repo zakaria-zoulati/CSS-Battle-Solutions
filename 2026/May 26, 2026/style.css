@@ -1,0 +1,81 @@
+.container {
+    background: #A84A4B ;
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+}
+  .ver1 {
+    position : absolute ; 
+    background : #F5E3B5 ; 
+    width: 40px;
+    height : 100px ;
+    top : 130px ; 
+    left : 100px 
+  }
+    .ver2 {
+      position : absolute ; 
+      background : #F5E3B5 ; 
+      width: 40px;
+      height : 100px ;
+      top : 130px ; 
+      left : 180px 
+   }
+    .ver3 {
+        position : absolute ; 
+        background : #F5E3B5 ; 
+        width: 40px;
+        height : 100px ;
+        top : 130px ; 
+        left : 260px 
+   }
+  .sq1 {
+      position : absolute ; 
+      background : #30383F ; 
+      height : 40px ;  
+      width : 40px ;  
+      top : 150px ; 
+      left : 140px ;
+  }
+    .sq2 {
+      position : absolute ; 
+      background : #30383F ; 
+      height : 40px ;  
+      width : 40px ;  
+      top : 70px ; 
+      left : 260px ;
+  }
+  .arc1 {
+    position : absolute ; 
+    height : 120px ; 
+    width :  120px ; 
+    border-radius : 50% ; 
+    top : 70px ; 
+    left : 100px ;
+    background : linear-gradient(
+      to bottom , 
+      rgba( 245, 227, 181, 1 ) 0% , 
+      rgba( 245, 227, 181, 1 ) 50% , 
+      rgba( 245, 227, 181, 0 ) 50% , 
+      rgba( 245, 227, 181, 0 ) 100% 
+    ) ;
+  }
+    .arc2 {
+      position : absolute ; 
+      height : 40px ; 
+      width :  40px ; 
+      border-radius : 50% ; 
+      top : 110px ; 
+      left : 140px ;
+      background : linear-gradient(
+        to bottom , 
+        rgba( 168, 74, 75, 1 ) 0% , 
+        rgba( 168, 74, 75, 1 ) 50% , 
+        rgba( 245, 227, 181, 0 ) 50% , 
+        rgba( 245, 227, 181, 0 ) 100% 
+      ) ;
+  }
