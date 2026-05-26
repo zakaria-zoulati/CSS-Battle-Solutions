@@ -144,11 +144,14 @@ Click on any image below to view the corresponding solution.
       <td><a href="./Battles/Battle 36/Target 2/"><img src="./Images/Target_83.png" width="200"></a></td>
       <td><a href="./Battles/Battle 36/Target 3/"><img src="./Images/Target_84.png" width="200"></a></td>
   </tr>
-      <tr>
+  <tr>
       <td><a href="./Battles/Battle 36/Target 4/"><img src="./Images/Target_85.png" width="200"></a></td>
       <td><a href="./2026/Jan 22, 2026"><img src="./Images/Target_86.png" width="200"></a></td>
       <td><a href="./2026/Mar 14, 2026"><img src="./Images/Target_88.png" width="200"></a></td>
       <td><a href="./2026/May 26, 2026"><img src="./Images/Target_89.png" width="200"></a></td>
+  </tr>
+  <tr>
+      <td><a href="./Battles/Battle 33/Target 1/"><img src="./Images/Target_90.png" width="200"></a></td>
   </tr>
 </table>
 

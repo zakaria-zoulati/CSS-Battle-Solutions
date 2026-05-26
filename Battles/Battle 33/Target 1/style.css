@@ -1,0 +1,184 @@
+.container {
+    background : #9B8170 ;  
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+}
+   .bottom {
+     position : absolute ; 
+     background : #FFFFFF ; 
+     height : 20px ; 
+     width : 240px ; 
+     left : 80px ;
+     bottom : 40px ; 
+   }
+   .empty-1 {
+     position : absolute ; 
+     background : #9B8170 ; 
+     height : 30px ; 
+     width : 20px ; 
+     left : 179px ;
+     bottom : 38px ; 
+   }
+   .empty-2 {
+     position : absolute ; 
+     background : #9B8170 ; 
+     height : 50px ; 
+     width : 20px ; 
+     left : 268px ;
+     bottom : 105px ;
+     transform : rotate( 45deg ) ; 
+   }
+    .empty-3 {
+       position : absolute ; 
+       background : #9B8170 ; 
+       background : #FFFFFF ; 
+       height : 40px ; 
+       width : 20px ; 
+       left : 79.6px ;
+       bottom : 40px ;
+   }
+    .empty-3 {
+         position : absolute ; 
+         background : #9B8170 ; 
+         background : #FFFFFF ; 
+         height : 40px ; 
+         width : 20px ; 
+         right : 79.6px ;
+         bottom : 40px ;
+   }
+  .circ-1 {
+    position : absolute ;
+      background : linear-gradient(
+       to bottom ,
+       rgba( 255,255,255,1 ) 0% ,
+       rgba( 255,255,255,1 ) 70% ,
+       rgba( 255,255,255,0 ) 70% ,
+       rgba( 255,255,255,0 ) 100%
+     );
+      height : 140px ;
+      width : 140px ;
+      border-radius : 50% ;
+      bottom : 0px ;
+      left : 79px;
+  }
+    .circ-2 {
+      position : absolute ;
+      background : linear-gradient(
+       to bottom ,
+       rgba( 255,255,255,1 ) 0% ,
+       rgba( 255,255,255,1 ) 70% ,
+       rgba( 255,255,255,0 ) 70% ,
+       rgba( 255,255,255,0 ) 100%
+     );
+      height : 140px ;
+      width : 140px ;
+      border-radius : 50% ;
+      bottom : 0px ;
+      right : 79px;
+  }
+  .circ-3 {
+      position : absolute ; 
+      background : linear-gradient(
+       to bottom , 
+       rgba( 155, 129, 112,1 ) 0% , 
+       rgba( 155, 129, 112,1 ) 60% , 
+       rgba( 255,255,255,0 ) 60% , 
+       rgba( 255,255,255,0 ) 100%  
+     );
+      height : 100px ; 
+      width : 100px ; 
+      border-radius : 50% ; 
+      bottom : 20px ; 
+      left : 99px;
+  }
+  .circ-4 {
+      position : absolute ; 
+      background : linear-gradient(
+       to bottom , 
+       rgba( 155, 129, 112,1 ) 0% , 
+       rgba( 155, 129, 112,1 ) 60% , 
+       rgba( 255,255,255,0 ) 60% , 
+       rgba( 255,255,255,0 ) 100%  
+     );
+      height : 100px ; 
+      width : 100px ; 
+      border-radius : 50% ; 
+      bottom : 20px ; 
+      right : 99px;
+  }
+
+  .circ-5 {
+    position : absolute ; 
+    background : #FFFFFF ; 
+    top : 90px ; 
+    left : 110px ; 
+    border-radius : 50%  ; 
+    height : 80px ; 
+    width : 80px ; 
+  }
+  .circ-6 {
+    position : absolute ; 
+    background : #FFFFFF ; 
+    top : 90px ; 
+    right : 110px ; 
+    border-radius : 50%  ; 
+    height : 80px ; 
+    width : 80px ; 
+  }
+
+  .circ-7 {
+    position : absolute ; 
+    background : #9B8170 ; 
+    top : 110px ; 
+    right : 130px ; 
+    border-radius : 50%  ; 
+    height : 40px ; 
+    width : 40px ; 
+  }
+  .circ-8 {
+    position : absolute ; 
+    background : #9B8170 ; 
+    top : 110px ; 
+    left : 130px ; 
+    border-radius : 50%  ; 
+    height : 40px ; 
+    width : 40px ; 
+    
+  }
+
+  .tr1 {
+    position : absolute ;
+    background: linear-gradient(
+      45deg ,
+      rgba( 155, 129, 112 , 1 ) 0% ,
+      rgba( 155, 129, 112 , 1 ) 27% ,
+      rgba( 155, 129, 112 , 0 ) 27% ,
+      rgba( 155, 129, 112 , 0 ) 100%
+    );
+    height : 40px ;
+    width : 40px ;
+    top : 110px ;
+    left : 130px ;
+    transform : rotate( -45deg ) ;
+  }
+  .tr2 {
+    position : absolute ;
+    background: linear-gradient(
+      45deg ,
+      rgba( 155, 129, 112 , 1 ) 0% ,
+      rgba( 155, 129, 112 , 1 ) 27% ,
+      rgba( 155, 129, 112 , 0 ) 27% ,
+      rgba( 155, 129, 112 , 0 ) 100%
+    );
+    height : 40px ;
+    width : 40px ;
+    top : 110px ;
+    right : 130px ;
+    transform : rotate( -45deg ) ;
+  }
