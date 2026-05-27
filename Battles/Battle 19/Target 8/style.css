@@ -1,0 +1,78 @@
+.container {
+    background :#293D7E ;    
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+}
+.circ1 {
+    position : absolute ; 
+    background: #6E91CA ; 
+    /* background: red;  */
+    height : 170px ; 
+    width: 170px ; 
+    border-radius : 50% ; 
+    top : 45px ; 
+    left : 115px ; 
+  }
+  .circ2 {
+    position : absolute ; 
+    background: #293D7E ; 
+    /* background: green;  */
+    height : 130px ; 
+    width: 130px ; 
+    border-radius : 50% ; 
+    top : 65px ; 
+    left : 135px ; 
+  }
+  .rec {
+    position : absolute ; 
+    background : #293D7E ; 
+    /* background : green ;  */
+    height : 135px ; 
+    width : 250px ; 
+    bottom : 35px ;
+    left : 70px ; 
+  }
+  .bar1 {
+    position : absolute ; 
+    background : #6E91CA ; 
+    height : 40px ; 
+    width : 20px ; 
+    top : 129px ; 
+    left: 115.27px ; 
+  }
+  .bar2 {
+    position : absolute ; 
+    background : #6E91CA ; 
+    height : 40px ; 
+    width : 20px ; 
+    top : 129px ; 
+    right: 115.27px ; 
+  }
+  .ear1{
+    position : absolute ; 
+    background : #6E91CA ; 
+    height : 80px ; 
+    width : 60px ; 
+    top : 165px;
+    left : 115px;
+    border-top-right-radius : 30px ; 
+    border-bottom-left-radius : 50px ; 
+    border-bottom-right-radius : 50px ; 
+  }
+  .ear2{
+    position : absolute ; 
+    background : #6E91CA ; 
+    height : 80px ; 
+    width : 60px ; 
+    top : 165px;
+    right : 116px;
+    border-top-left-radius : 30px ; 
+    border-bottom-left-radius : 50px ; 
+    border-bottom-right-radius : 50px ; 
+  }
