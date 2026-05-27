@@ -1,0 +1,103 @@
+.container {
+    background : #CAE5DC ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+}
+  .bar1 {
+    position : absolute ; 
+    background : #000000 ;  
+    height : 94px;
+    width : 16px ; 
+    bottom : 27px ; 
+    left : 162px ; 
+  }
+  .bar2 {
+    position : absolute ; 
+    background : #000000 ;  
+    height : 94px;
+    width : 16px ; 
+    bottom : 27px ; 
+    left : 182px ; 
+  }
+  .bar3 {
+    position : absolute ; 
+    background : #000000 ;  
+    height : 94px;
+    width : 16px ; 
+    bottom : 27px ; 
+    left : 202px ; 
+  }
+  .bar4 {
+    position : absolute ; 
+    background : #000000 ;  
+    height : 94px;
+    width : 16px ; 
+    bottom : 27px ; 
+    left : 222px ; 
+  }
+  .head {
+    position : absolute ; 
+    background : #000000 ;  
+    height : 140px ; 
+    width : 140px ; 
+    border-radius : 50% ;
+    top : 40px ; 
+    left : 130px ; 
+  }
+  .rec {
+    position : absolute ; 
+    background : #000000 ; 
+    height : 20px ; 
+    width : 100px ; 
+    left : 150px ;
+    top : 160px ; 
+  }
+
+  .eye1 {
+    position : absolute ; 
+    background : linear-gradient(
+      28deg , 
+      rgba( 202, 229, 220 , 1 ) 0% , 
+      rgba( 202, 229, 220 , 1 ) 53% , 
+      rgba( 202, 229, 220 , 0 ) 53% , 
+      rgba( 202, 229, 220 , 0 ) 100% 
+    );
+    height : 43px ; 
+    width : 43px ; 
+    left : 145px ; 
+    top : 100px ;
+    border-radius : 50% ; 
+  }
+  .eye2 {
+    position : absolute ; 
+    background : linear-gradient(
+      -28deg , 
+      rgba( 202, 229, 220 , 1 ) 0% , 
+      rgba( 202, 229, 220 , 1 ) 53% , 
+      rgba( 202, 229, 220 , 0 ) 53% , 
+      rgba( 202, 229, 220 , 0 ) 100% 
+    );
+    height : 43px ; 
+    width : 43px ; 
+    right : 145px ; 
+    top : 100px ;
+    border-radius : 50% ; 
+  }
+
+  .nose {
+      position : absolute ; 
+      background : #CAE5DC ;  
+      height : 32px ; 
+      width : 20px ; 
+      top : 135px; 
+      left : 190px ;
+      clip-path : polygon(
+        50% 0% , 100% 100% , 0% 100% 
+      ); 
+  }
