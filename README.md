@@ -157,7 +157,7 @@ Click on any image below to view the corresponding solution.
       <td><a href="./Battles/Battle 32/Target 4/"><img src="./Images/Target_92.png" width="200"></a></td>
   </tr>
     <tr>
-      <td><a href="./Battles/Battle 32/Target 3/"><img src="./Images/Target_92.png" width="200"></a></td>
+      <td><a href="./Battles/Battle 32/Target 3/"><img src="./Images/Target_93.png" width="200"></a></td>
       <td><a href="./Battles/Battle 29/Target 5/"><img src="./Images/Target_94.png" width="200"></a></td>
       <td><a href="./Battles/Battle 20/Target 3/"><img src="./Images/Target_95.png" width="200"></a></td>
       <td><a href="./Battles/Battle 20/Target 3/"><img src="./Images/Target_96.png" width="200"></a></td>
