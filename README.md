@@ -147,18 +147,19 @@ Click on any image below to view the corresponding solution.
   <tr>
       <td><a href="./Battles/Battle 36/Target 4/"><img src="./Images/Target_85.png" width="200"></a></td>
       <td><a href="./2026/Jan 22, 2026"><img src="./Images/Target_86.png" width="200"></a></td>
-      <td><a href="./2026/Mar 14, 2026"><img src="./Images/Target_88.png" width="200"></a></td>
-      <td><a href="./2026/May 26, 2026"><img src="./Images/Target_89.png" width="200"></a></td>
+      <td><a href="./2026/Mar 14, 2026"><img src="./Images/Target_87.png" width="200"></a></td>
+      <td><a href="./2026/May 26, 2026"><img src="./Images/Target_88.png" width="200"></a></td>
   </tr>
   <tr>
-      <td><a href="./Battles/Battle 33/Target 1/"><img src="./Images/Target_90.png" width="200"></a></td>
-      <td><a href="./Battles/Battle 39/Target 7/"><img src="./Images/Target_91.png" width="200"></a></td>
-      <td><a href="./Battles/Battle 35/Target 6/"><img src="./Images/Target_92.png" width="200"></a></td>
-      <td><a href="./Battles/Battle 32/Target 4/"><img src="./Images/Target_93.png" width="200"></a></td>
+      <td><a href="./Battles/Battle 33/Target 1/"><img src="./Images/Target_89.png" width="200"></a></td>
+      <td><a href="./Battles/Battle 39/Target 7/"><img src="./Images/Target_90.png" width="200"></a></td>
+      <td><a href="./Battles/Battle 35/Target 6/"><img src="./Images/Target_91.png" width="200"></a></td>
+      <td><a href="./Battles/Battle 32/Target 4/"><img src="./Images/Target_92.png" width="200"></a></td>
   </tr>
     <tr>
-      <td><a href="./Battles/Battle 32/Target 3/"><img src="./Images/Target_94.png" width="200"></a></td>
-      <td><a href="./Battles/Battle 29/Target 5/"><img src="./Images/Target_95.png" width="200"></a></td>
+      <td><a href="./Battles/Battle 32/Target 3/"><img src="./Images/Target_92.png" width="200"></a></td>
+      <td><a href="./Battles/Battle 29/Target 5/"><img src="./Images/Target_94.png" width="200"></a></td>
+      <td><a href="./Battles/Battle 20/Target 3/"><img src="./Images/Target_95.png" width="200"></a></td>
       <td><a href="./Battles/Battle 20/Target 3/"><img src="./Images/Target_96.png" width="200"></a></td>
   </tr>
 </table>
