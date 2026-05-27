@@ -153,6 +153,7 @@ Click on any image below to view the corresponding solution.
   <tr>
       <td><a href="./Battles/Battle 33/Target 1/"><img src="./Images/Target_90.png" width="200"></a></td>
       <td><a href="./Battles/Battle 39/Target 7/"><img src="./Images/Target_91.png" width="200"></a></td>
+      <td><a href="./Battles/Battle 35/Target 6/"><img src="./Images/Target_92.png" width="200"></a></td>
   </tr>
 </table>
 
