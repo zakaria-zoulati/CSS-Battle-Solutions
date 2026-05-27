@@ -1,0 +1,88 @@
+.container {
+    background : #232323 ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+}
+  .arc1 {
+      position : absolute ; 
+      background : #AF3A3A ; 
+      height : 160px ; 
+      width : 160px ; 
+      top : 35px ;
+      left : 120px ; 
+      border-radius : 50% ; 
+  }
+  .egg {
+      position : absolute ; 
+      background : #232323 ; 
+      width : 120px ; 
+      height : 68px ;
+      top : 88px ; 
+      left : 140px ;
+      border-radius : 50%  ;
+  }
+  .rec1 {
+      position : absolute ; 
+      background : #232323 ; 
+      height : 107px ; 
+      width : 70px; 
+      top : 140px ; 
+      left : 165px ; 
+  }
+  .rec2 {
+      position : absolute ; 
+      background : #AF3A3A; 
+      height : 128px ; 
+      width : 45px; 
+      top : 120px ; 
+      left : 120px ; 
+  }
+  .rec3 {
+      position : absolute ; 
+      background : #AF3A3A; 
+      height : 128px ; 
+      width : 45px; 
+      top : 120px ; 
+      right : 120px ; 
+  }
+  .tr1 {
+    position : absolute ; 
+    background : #AF3A3A ;  
+    height : 25.3px ; 
+    width : 52px ; 
+    left : 120px ; 
+    bottom : 27px ;
+    clip-path : polygon(
+      0% 0% , 
+      100% 0% , 
+      72% 100%
+    ); 
+  }
+  .tr2 {
+    position : absolute ; 
+    background : #AF3A3A ;  
+    height : 25.3px ; 
+    width : 52px ; 
+    right : 120px ; 
+    bottom : 27px ;
+    clip-path : polygon(
+      0% 0% , 
+      100% 0% , 
+      28% 100%
+    ); 
+  }
+  .curl {
+    position : absolute; 
+    background : #AF3A3A ; 
+    height : 20px ; 
+    width : 60px ;
+    border-radius : 50% ; 
+    top : 82px ; 
+    left : 170px ; 
+  }
