@@ -12,7 +12,6 @@
 .circ1 {
     position : absolute ; 
     background: #6E91CA ; 
-    /* background: red;  */
     height : 170px ; 
     width: 170px ; 
     border-radius : 50% ; 
@@ -22,7 +21,6 @@
   .circ2 {
     position : absolute ; 
     background: #293D7E ; 
-    /* background: green;  */
     height : 130px ; 
     width: 130px ; 
     border-radius : 50% ; 
@@ -32,7 +30,6 @@
   .rec {
     position : absolute ; 
     background : #293D7E ; 
-    /* background : green ;  */
     height : 135px ; 
     width : 250px ; 
     bottom : 35px ;

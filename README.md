@@ -166,6 +166,7 @@ Click on any image below to view the corresponding solution.
       <td><a href="./Battles/Battle 25/Target 8/"><img src="./Images/Target_97.png" width="200"></a></td>
       <td><a href="./Battles/Battle 35/Target 5/"><img src="./Images/Target_98.png" width="200"></a></td>
       <td><a href="./Battles/Battle 19/Target 8/"><img src="./Images/Target_99.png" width="200"></a></td>
+      <td><a href="./Battles/Battle 4/Target 4/"><img src="./Images/Target_100.png" width="200"></a></td>
   </tr>
 </table>
 
