@@ -1,0 +1,38 @@
+.container {
+    background : #FFFFFF ; 
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+}
+  .poly {
+    position : absolute; 
+    background: #000000; 
+    height : 200px ; 
+    width : 200px ; 
+    top: 50px ; 
+    left : 100px ; 
+    clip-path : polygon(
+      58px 0px , 
+      143px 0px , 
+      200px 58px ,
+      200px 143px ,
+      143px 200px ,
+      58px 200px , 
+      0px 143px , 
+      0px 58px
+    )
+  }
+  .circle{
+    position:absolute;
+    background: #FFFFFF; 
+    height: 100px;  
+    width: 100px ;
+    border-radius: 50% ; 
+    top:100px;
+    left:150px ; 
+  }

@@ -171,6 +171,7 @@ Click on any image below to view the corresponding solution.
     </tr>
       <tr>
       <td><a href="./2026/Jun 7, 2026"><img src="./Images/Target_101.png" width="200"></a></td>
+      <td><a href="./2026/Jun 14, 2026"><img src="./Images/Target_102.png" width="200"></a></td>
   </tr>
 </table>
 
