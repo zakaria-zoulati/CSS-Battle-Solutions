@@ -1,0 +1,79 @@
+.container {
+    background : #ffff ;
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+}
+
+.top {
+    position : absolute ; 
+    top : 25px;  
+    left : 165px ; 
+    width: 70px;
+    height: 40px;
+    background: #D9BB61;
+  }
+  .bottom {
+    position : absolute ; 
+    bottom : 25px;  
+    left : 165px ; 
+    width: 70px;
+    height: 40px;
+    background: #D9BB61;
+  }
+  .right {
+    position : absolute ; 
+    top : 115px;  
+    left : 75px ; 
+    width: 40px;
+    height: 70px;
+    background: #D9BB61;
+  }
+  .left {
+    position : absolute ; 
+    top : 115px;  
+    right : 75px ; 
+    width: 40px;
+    height: 70px;
+    background: #D9BB61;
+  }
+  .center {
+    position : absolute ; 
+    width: 150px;
+    height: 150px;
+    top : 75px  ; 
+    left : 125px ;
+    --r : 40px ; 
+    background : 
+      radial-gradient(
+        var(--r) at 0 0 , 
+        #0000 98% , 
+        #394257 
+      )
+      top left , 
+     radial-gradient(
+        var(--r) at 100% 0 , 
+        #0000 98% , 
+        #394257 
+      )
+      top right , 
+     radial-gradient(
+        var(--r) at 100% 100% , 
+        #0000 98% , 
+        #394257 
+      )
+      bottom right , 
+     radial-gradient(
+        var(--r) at 0% 100% , 
+        #0000 98% , 
+        #394257 
+      )
+      bottom left 
+    ;
+    background-size: 60% 60% ; 
+    background-repeat : no-repeat ; 
