@@ -1,0 +1,85 @@
+.container {
+    background: #000000 ;
+    width : 400px ; 
+    height : 300px ; 
+    position: absolute ;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border : black 2px solid; 
+    box-shadow: 2px 2px 2px 3px black ; 
+}
+    .center-square {
+      position : absolute;
+      background:#D97757 ;
+      height : 175px ; 
+      width : 200px ; 
+      top : 40px;
+      left : 100px; 
+    }
+     .eye-1 {
+      position : absolute ; 
+      height : 20px;
+      width: 20px; 
+      background: black;
+      top: 70px ;
+      left : 120px; 
+    }
+    .eye-2 {
+      position : absolute ; 
+      height : 20px;
+      width: 20px; 
+      background: black;
+      top: 70px ;
+      right : 120px; 
+    }
+
+    .hand-1 {
+      position : absolute ;
+      background: #D97757 ; 
+      height : 50px ; 
+      width: 60px ; 
+      top: 90px;
+      left:50px;
+    }
+    .hand-2 {
+      position : absolute ;
+      background: #D97757 ; 
+      height : 50px ; 
+      width: 60px ; 
+      top: 90px;
+      right:50px;
+    }
+
+    .leg-1 {
+      position : absolute ; 
+      background: #D97757 ;  
+      height : 50px ; 
+      width : 20px ; 
+      bottom: 40px ; 
+      left : 140px;
+    }
+      .leg-2 {
+      position : absolute ; 
+      background: #D97757 ;  
+      height : 50px ; 
+      width : 20px ; 
+      bottom: 40px ; 
+      left : 100px;
+    }
+  .leg-3 {
+      position : absolute ; 
+      background: #D97757 ;  
+      height : 50px ; 
+      width : 20px ; 
+      bottom: 40px ; 
+      right : 140px;
+    }
+      .leg-4 {
+      position : absolute ; 
+      background: #D97757 ;  
+      height : 50px ; 
+      width : 20px ; 
+      bottom: 40px ; 
+      right : 100px;
+    }
